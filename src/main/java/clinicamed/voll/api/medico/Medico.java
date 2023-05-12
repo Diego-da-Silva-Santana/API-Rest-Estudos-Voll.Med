@@ -29,4 +29,6 @@ public class Medico {
     private Endereco endereco;
 
 
+    public Medico(DadosCadastroMedico dados) {
+    }
 }
